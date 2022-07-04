@@ -10,5 +10,5 @@
   <img src="https://discord.c99.nl/widget/theme-3/794104751809232897.png"/>
 </p>
 <p align="center">
-Developer | Python, JavaScript, Skript.
+i play reblox and mencrift
 <p align="center">

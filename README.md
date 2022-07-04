@@ -7,7 +7,7 @@
 <img src="https://komarev.com/ghpvc/?username=ImAmyra&color=grey">
 </p>
     <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/794104751809232897.png"/>
+  <img src="https://discord.c99.nl/widget/theme-1/794104751809232897.png"/>
 </p>
 <p align="center">
 i play reblox and mencrift
